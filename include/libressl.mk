@@ -26,7 +26,7 @@
 # Author: Ronaldo F. Lima <ronaldo@nineteen.com.br>
 #
 
-SSL_VERSION=2.5.4
+SSL_VERSION=2.6.4
 SSL_PREFIX=/usr/local/opt/libressl
 SSL_MODULE=libressl
 SSL_OUT_DOC=$(SSL_MODULE)-$(SSL_VERSION).tar.gz

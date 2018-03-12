@@ -44,7 +44,7 @@ dpkg-deb --build ${PACKAGE}
 # install libressl
 
 PACKAGE=libressl
-PACKAGE_VERSION=2.5.4
+PACKAGE_VERSION=2.6.4
 PREFIX=/usr/local/opt/libressl
 DESTDIR=${DIR}/${PACKAGE}
 MAKEDIR=${PACKAGE}-${PACKAGE_VERSION}
